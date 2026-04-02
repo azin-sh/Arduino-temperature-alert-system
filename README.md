@@ -48,8 +48,6 @@ Red: Warning (>72°F).
 
 Passive Buzzer: Sounds a 1500Hz audible alarm when the 80°F threshold is breached.
 
-
-
 💻 **Technical Stack & Code Implementation**
 
 Language: C++ 
@@ -74,7 +72,9 @@ void loop() {
     noTone(BUZZERPIN); // Silence alarm [cite: 64, 247]
   }
 }
+
 🔍 **Troubleshooting & Key Design Modifications**
+
 Migrating from simulation to physical hardware required solving several real-world engineering challenges:
 
 
