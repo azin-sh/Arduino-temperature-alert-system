@@ -48,6 +48,8 @@ Red: Warning (>72°F).
 
 Passive Buzzer: Sounds a 1500Hz audible alarm when the 80°F threshold is breached.
 
+
+
 💻 **Technical Stack & Code Implementation**
 
 Language: C++ 
